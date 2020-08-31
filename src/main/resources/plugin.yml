@@ -1,0 +1,14 @@
+name: Switcher
+main: space.minota.switcher.Main
+version: 0.0.1
+description: Server switcher for Midnight.
+author: Minota
+commands:
+    na1:
+        description: Sends you to NA-1.
+    na2:
+        description: Sends you to NA-2.
+    eu1:
+        description: Sends you to EU-1.
+    hub:
+        description: Sends you to Hub.
